@@ -1,6 +1,6 @@
 # Fourier_Transform
 
-**- Data Set :** Samsung Electronics Stock Price(Close), Hyundai Motor<br/>
+**- Data Set :** Samsung Electronics Stock Price, Hyundai Motor Stock Price<br/>
 **- Tool :** Python, Jupyter Notebook<br/>
 **- Model :** Fourier Transform<br/>
 **- Purpose :** Denoise stock price<br/>
