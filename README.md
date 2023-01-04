@@ -4,5 +4,4 @@
 **- Tool :** Python, Jupyter Notebook<br/>
 **- Model :** Fourier Transform<br/>
 **- Purpose :** Denoise stock price<br/>
-**- Reference :** Forecasting Stock Market Indices Using Padding-Based Fourier Transform  <br/>
-      Denoising and Time Series Deep Learning Models
+**- Reference :** Forecasting Stock Market Indices Using Padding-Based Fourier Transform Denoising and Time Series Deep Learning Models <br/>
